@@ -1,1 +1,1 @@
-RavenDB Glasgow talk website.
+	No Sql Glasgow talk website.

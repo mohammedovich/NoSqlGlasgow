@@ -1,1 +1,1 @@
-	No Sql Glasgow talk website.
+NoSql Glasgow talk website.
